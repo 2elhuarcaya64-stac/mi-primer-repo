@@ -1,1 +1,3 @@
 Aprendiendo git diff, git restore y git stash
+practica calificada
+evaluacion de examen
